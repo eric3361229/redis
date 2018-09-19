@@ -1,13 +1,9 @@
 
-下载redis windows 个版本
-https://github.com/dmajkic/redis/downloads
-
-
 Official Redis for Windows is now at Microsoft Open Tech
 
 https://github.com/MSOpenTech/redis
 
-
+下载redis windows 个版本
 Windows 32 and x64 port of Redis server, client and utils
 --------------------------------------------
 
